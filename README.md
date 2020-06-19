@@ -22,7 +22,7 @@ Documentation is generated with [ExDoc](https://github.com/elixir-lang/ex_doc).
 
 Just shoot a couple of doors and you can start transfering data:
 
-```iex
+```elixir
 iex> Portal.shoot(:orange)
 {:ok, #PID<0.192.0>}
 iex> Portal.shoot(:blue)
